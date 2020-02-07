@@ -23,6 +23,7 @@ Tecnology used
 - hriskacerguis/codeigniter-restserver 3.0.3
 - PHPUnit 8
 - PHP-FIG Practices
+- SOLID Principes
 - And others =)
 
 
