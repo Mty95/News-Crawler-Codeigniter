@@ -1,4 +1,33 @@
 ###################
+News Crawler
+###################
+A web PHP Crawler for scrappe some news websites in Perú.
+
+This project is uses core CodeIgniter classess and almost all have been oriented to Service Classes, 
+adding various patterns like DI Container, Repository-Entity Pattern, with good patterns for PHP 7 in 2020 year
+
+Some folders have been removed on purpose, since this is not an open-source project, but it is a sample.
+
+###################
+Tecnology used
+###################
+- PHP 7.4.1
+- CodeIgniter 3.1.11
+- Bootstrap 4
+- Symonfy DomCrawler
+- Mag News Template
+- kenjis/ci-phpunit-test (https://github.com/kenjis/ci-phpunit-test)
+- zaninotto/faker (https://github.com/fzaninotto/Faker)
+- JCSama/CodeIgniter-develbar (https://github.com/JCSama/CodeIgniter-develbar)
+- firebase/php-jwt ^5.0
+- hriskacerguis/codeigniter-restserver 3.0.3
+- PHPUnit 8
+- PHP-FIG Practices
+- And others =)
+
+
+
+###################
 What is CodeIgniter
 ###################
 
