@@ -1,7 +1,7 @@
 ###################
 News Crawler
 ###################
-A web PHP Crawler for scrappe some news websites in Perú.
+A web PHP Crawler for scrappe some news websites in Peru.
 
 This project is uses core CodeIgniter classess and almost all have been oriented to Service Classes, 
 adding various patterns like DI Container, Repository-Entity Pattern, with good patterns for PHP 7 in 2020 year
