@@ -1,0 +1,2 @@
+[05-02-2020 10:59:58] [App\Model\User\UserFacade::doLogin] {"password":"The password field must be at least 5 characters in length."}
+[05-02-2020 23:49:27] [App\Model\User\UserFacade::doLogin] {"password":"The password field must be at least 5 characters in length."}
